@@ -5,6 +5,7 @@
  * @license    https://github.com/flipbox/stash-cache/blob/master/LICENSE
  * @link       https://github.com/flipbox/stash-cache
  */
+
 namespace Flipbox\Stash\Tests;
 
 use Flipbox\Stash\Pool;
