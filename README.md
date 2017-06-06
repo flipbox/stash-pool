@@ -4,7 +4,7 @@
 [![Build Status](https://img.shields.io/travis/flipbox/stash-pool/master.svg?style=flat-square)](https://travis-ci.org/flipbox/stash-pool)
 [![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/flipbox/stash-pool.svg?style=flat-square)](https://scrutinizer-ci.com/g/flipbox/stash-pool/code-structure)
 [![Quality Score](https://img.shields.io/scrutinizer/g/flipbox/stash-pool.svg?style=flat-square)](https://scrutinizer-ci.com/g/flipbox/stash-pool)
-[![Total Downloads](https://img.shields.io/packagist/dt/flipboxdigital/stash-pool.svg?style=flat-square)](https://packagist.org/packages/league/stash-pool)
+[![Total Downloads](https://img.shields.io/packagist/dt/flipboxdigital/stash-pool.svg?style=flat-square)](https://packagist.org/packages/flipboxdigital/stash-pool)
 
 This package provides a wrapper to [Stash](https://github.com/tedious/Stash) allowing one to set a default item duration.
 
